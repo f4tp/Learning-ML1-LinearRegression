@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MlApp1LinearRegression", "MlApp1LinearRegression\MlApp1LinearRegression.csproj", "{BF7AC6A3-9C2B-4A1A-972D-11FDBF619634}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF7AC6A3-9C2B-4A1A-972D-11FDBF619634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF7AC6A3-9C2B-4A1A-972D-11FDBF619634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF7AC6A3-9C2B-4A1A-972D-11FDBF619634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF7AC6A3-9C2B-4A1A-972D-11FDBF619634}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAAC8C06-2806-47C8-8A01-9DCB2CEE4A27}
+	EndGlobalSection
+EndGlobal
